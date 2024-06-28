@@ -1,4 +1,4 @@
-- 👋 Hi, I’m $_$
+- 👋 Hi, I’m @$_$
 - 👀 I’m interested in Artificial intelligence, web development, everything related to technology
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Anything that might grow and develop my skills
